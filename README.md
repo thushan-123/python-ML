@@ -62,7 +62,7 @@ python ai_model.py
 Enter a sentence : hate this
 Result : negative
 
-Enter a sentence : not intersed
+Enter a sentence :  wow intersting
 Result : positive
 ```
 
